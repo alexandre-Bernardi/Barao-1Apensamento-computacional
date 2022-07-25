@@ -1,2 +1,2 @@
 # Barao-1Apensamento-computacional
-projeto de um site em HTNL e CSS 
+projeto de um site em HTML e CSS 
