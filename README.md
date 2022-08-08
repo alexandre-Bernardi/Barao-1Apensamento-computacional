@@ -5,6 +5,9 @@
 ### diciplina pensamentocomputacional
 
 
+
 desenvolvimentode site nas linguagenshtml e css
 
 estudante:alexandre bernardi Muriana nº2
+
+
