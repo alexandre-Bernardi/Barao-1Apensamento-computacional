@@ -1,8 +1,11 @@
 body{
     text-align: center;
+    background-color:rgb(212, 51, 45)
+
 }
 .beneficios{
     text-align: left;
+    background-color:rgba(172, 40, 36, 0.795)ss
 }
 ul {
     display: inline-block;
