@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.beneficios{
+    text-align: left;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 800px;
+}
+li {
+    padding: 15px;
+    font-size: 26px;
+}
+    .foto-beneficio{
+        width:40%
+}
